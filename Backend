@@ -1,0 +1,15 @@
+This backend is built with Spring Boot, providing a robust RESTful API to manage laptop products, user authentication, and enquiries. It handles data persistence using a relational database (such as MySQL), enabling CRUD (Create, Read, Update, Delete) operations on laptops and user data.
+
+Key features include:
+
+Secure user login and registration with role-based access (admin and users).
+
+Laptop management APIs for adding, updating, deleting, and fetching laptop details.
+
+Enquiry form handling and storage for user requests.
+
+Image upload and retrieval support for product images.
+
+Integration with the frontend through JSON APIs.
+
+This backend ensures a scalable and secure foundation for the laptop showcase website.
